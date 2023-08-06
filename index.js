@@ -14,9 +14,9 @@ const element = (
   <div className="boxes-app-container">
       <h1 className="boxes-container-heading">Boxes</h1>
       <div className="boxes-container">
-          <Box className="yellow-box" boxText="small-box" />
-          <Box className="blue-box" boxText="medium-box" />
-          <Box className="pink-box" boxText="large-box" />
+          <Box className="yellow-box" boxText="Small" />
+          <Box className="blue-box" boxText="Medium" />
+          <Box className="pink-box" boxText="Large" />
       </div>
   </div>
 );
